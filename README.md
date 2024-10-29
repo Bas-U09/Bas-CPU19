@@ -1,1 +1,1 @@
-19 Bits Computer Architecture
+19 Bit cpu Architecture
