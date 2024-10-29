@@ -1,4 +1,4 @@
-//main cop module
+//main cpu module
 
 module CPU(
     input clk,
